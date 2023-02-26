@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/8769ANURAG/EvaMaria",
-    "repository": "https://github.com/senapatisachi111/THE_SNS",
+    "repository": "https://github.com/mrsns2503/SNS_P_FILTER",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
