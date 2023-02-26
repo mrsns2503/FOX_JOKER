@@ -4,7 +4,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/senapatisachi111/THE_SNS">
+<a href="https://heroku.com/deploy?template=https://github.com/mrsns2503/SNS_P_FILTER">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
