@@ -427,7 +427,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ 𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙𝚜 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🤡 𝙼𝚘𝚟𝚒𝚎𝚜', callback_data='movies'),
-            InlineKeyboardButton('❤️‍🔥 𝚂𝙽𝚂',url=f'https://t.me/ABOUT_SNS')
+            InlineKeyboardButton('❤️‍🔥 𝙾𝚆𝙽𝙴𝚁',url=f'https://t.me/PROFESSORPARTHIV')
             ],[
             InlineKeyboardButton('ℹ️ 𝙷𝚎𝚕𝚙', callback_data='help'),
             InlineKeyboardButton('🎉 𝙰𝚋𝚘𝚞𝚝', callback_data='about')
@@ -441,11 +441,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer('𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙿𝙿𝙾𝚁𝚃')
     elif query.data == "movies":
         buttons = [[
-            InlineKeyboardButton('𝙼𝚊𝚒𝚗 𝙲𝚑𝚊𝚗𝚗𝚎𝚕', url=f'https://t.me/+4cU3CekJJ6o2ZWY1'),
-            InlineKeyboardButton('𝙼𝚊𝚒𝚗 𝙶𝚛𝚘𝚞𝚙', url=f'https://t.me/+7j7EXi8FELQ2MjU9')
+            InlineKeyboardButton('𝙼𝚊𝚒𝚗 𝙲𝚑𝚊𝚗𝚗𝚎𝚕', url=f'https://t.me/+b06o8vaQSb04NjQ1'),
+            InlineKeyboardButton('𝙼𝚊𝚒𝚗 𝙶𝚛𝚘𝚞𝚙', url=f'https://t.me/+rtEUOYc7uDFiMjM1')
         ], [
-            InlineKeyboardButton('𝙼𝚘𝚟𝚒𝚎𝚜 𝚄𝚙𝚍𝚊𝚝𝚎𝚜', url=f'https://t.me/+EOtaPGpS-SRhNjRl'),
-            InlineKeyboardButton('𝙱𝚊𝚌𝚔𝚞𝚙 𝙶𝚛𝚘𝚞𝚙', url=f'https://t.me/+hS8TPhJcRvtjMWVl')
+            InlineKeyboardButton('𝙼𝚘𝚟𝚒𝚎𝚜 𝚄𝚙𝚍𝚊𝚝𝚎𝚜', url=f'https://t.me/+Y0jvlQkTDVU0YzI9'),
+            InlineKeyboardButton('𝙱𝚊𝚌𝚔𝚞𝚙 𝙶𝚛𝚘𝚞𝚙', url=f'https://t.me/+h47kYKn03zxlNDE1')
         ], [
             InlineKeyboardButton('🏠 H𝙾𝙼𝙴 🏠', callback_data='start'),
 
