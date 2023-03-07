@@ -427,7 +427,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ 𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙𝚜 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🤡 𝙼𝚘𝚟𝚒𝚎𝚜', callback_data='movies'),
-            InlineKeyboardButton('❤️‍🔥 𝙾𝚆𝙽𝙴𝚁',url=f'https://t.me/PROFESSORPARTHIV')
+            InlineKeyboardButton('❤️‍🔥 𝙾𝚆𝙽𝙴𝚁',url=f'https://t.me/foXjokeR')
             ],[
             InlineKeyboardButton('ℹ️ 𝙷𝚎𝚕𝚙', callback_data='help'),
             InlineKeyboardButton('🎉 𝙰𝚋𝚘𝚞𝚝', callback_data='about')
@@ -441,11 +441,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer('𝙿𝙻𝙴𝙰𝚂𝙴 𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙿𝙿𝙾𝚁𝚃')
     elif query.data == "movies":
         buttons = [[
-            InlineKeyboardButton('𝙼𝚊𝚒𝚗 𝙲𝚑𝚊𝚗𝚗𝚎𝚕', url=f'https://t.me/+b06o8vaQSb04NjQ1'),
-            InlineKeyboardButton('𝙼𝚊𝚒𝚗 𝙶𝚛𝚘𝚞𝚙', url=f'https://t.me/+rtEUOYc7uDFiMjM1')
+            InlineKeyboardButton('Canal Principal', url=f'https://t.me/SerieFilmBox'),
+            InlineKeyboardButton('Groupe Principal', url=f'https://t.me/jokerTeamBox')
         ], [
-            InlineKeyboardButton('𝙼𝚘𝚟𝚒𝚎𝚜 𝚄𝚙𝚍𝚊𝚝𝚎𝚜', url=f'https://t.me/+Y0jvlQkTDVU0YzI9'),
-            InlineKeyboardButton('𝙱𝚊𝚌𝚔𝚞𝚙 𝙶𝚛𝚘𝚞𝚙', url=f'https://t.me/+h47kYKn03zxlNDE1')
+            InlineKeyboardButton('Canal MAJ', url=f'https://t.me/Mycanalbox'),
+            InlineKeyboardButton('Canal Animés', url=f'https://t.me/animesbox')
         ], [
             InlineKeyboardButton('🏠 H𝙾𝙼𝙴 🏠', callback_data='start'),
 
@@ -742,7 +742,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"<b>💐 𝗛𝗲𝗿𝗲 𝗶𝘀 𝘄𝗵𝗮𝘁 𝗜 𝗳𝗼𝘂𝗻𝗱 𝗮𝘀 𝗽𝗲𝗿 𝘆𝗼𝘂𝗿 𝗾𝘂𝗲𝗿𝘆: 𓊈 {search} 𓊉\n\n🎭 𝗥𝗲𝗾𝘂𝗲𝘀𝘁𝗲𝗱 𝗯𝘆 : {message.from_user.mention} \n\n❇️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 : 『 @SNSxTG 』</b>"
+        cap = f"<b>💐 𝗛𝗲𝗿𝗲 𝗶𝘀 𝘄𝗵𝗮𝘁 𝗜 𝗳𝗼𝘂𝗻𝗱 𝗮𝘀 𝗽𝗲𝗿 𝘆𝗼𝘂𝗿 𝗾𝘂𝗲𝗿𝘆: 𓊈 {search} 𓊉\n\n🎭 𝗥𝗲𝗾𝘂𝗲𝘀𝘁𝗲𝗱 𝗯𝘆 : {message.from_user.mention} \n\n❇️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 : 『 @SerieFilmBox 』</b>"
     if imdb and imdb.get('poster'):
         try:
             hehe =  await message.reply_photo(photo="https://telegra.ph/file/0f8279a61cdd6b7e4c3d8.jpg", caption=cap[:1024],
