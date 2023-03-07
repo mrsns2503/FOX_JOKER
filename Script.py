@@ -17,17 +17,17 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>🤖 𝙼𝚈𝚂𝙴𝙻𝙵 : {}
-👨‍💻 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : <a href=https://t.me/PROFESSORPARTHIV><b>MOVIES ZONE</b></a>
+👨‍💻 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : <a href=https://t.me/foXjokeR><b>🦊foX-jokeR🃏</b></a>
 📝 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : ᴘʏʀᴏɢʀᴀᴍ
 📚 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 : ᴘʏᴛʜᴏɴ 3
 📡 𝙷𝚘𝚜𝚝𝚎𝚍 𝙾𝚗 : VPS
-📢 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href=https://t.me/+b06o8vaQSb04NjQ1><b></b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+📢 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href=https://t.me/SerieFilmBox><b></b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 🌟 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 : ᴠ 4.0</b>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐁𝐨𝐭 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
 » Message Me @TEAM_SNS_BOT<b>
 » 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟<b>
-» ᒍOIᑎ ᑎOᗯ ~ <a href=https://t.me/+b06o8vaQSb04NjQ1><b></b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
+» ᒍOIᑎ ᑎOᗯ ~ <a href=https://t.me/jokerTeamBox><b></b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
