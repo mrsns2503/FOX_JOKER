@@ -23,8 +23,8 @@ class script(object):
 📡 𝙷𝚘𝚜𝚝𝚎𝚍 𝙾𝚗 : VPS
 📢 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href=https://t.me/SerieFilmBox><b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</b></a>
 🌟 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 : ᴠ 4.0</b>"""
-    SOURCE_TXT = """𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟:
-» 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟<b>
+    SOURCE_TXT = """𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟:<b>
+
 » ᒍOIᑎ ᑎOᗯ ~ <a href=https://t.me/jokerTeamBox></b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
