@@ -21,13 +21,11 @@ class script(object):
 📝 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : ᴘʏʀᴏɢʀᴀᴍ
 📚 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 : ᴘʏᴛʜᴏɴ 3
 📡 𝙷𝚘𝚜𝚝𝚎𝚍 𝙾𝚗 : VPS
-📢 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href=https://t.me/SerieFilmBox><b></b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+📢 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href=https://t.me/SerieFilmBox><b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</b></a>
 🌟 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 : ᴠ 4.0</b>"""
-    SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐁𝐨𝐭 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
-» I will Create One Bot For You<b>
-» Message Me @TEAM_SNS_BOT<b>
+    SOURCE_TXT = """𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟:
 » 𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟<b>
-» ᒍOIᑎ ᑎOᗯ ~ <a href=https://t.me/jokerTeamBox><b></b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
+» ᒍOIᑎ ᑎOᗯ ~ <a href=https://t.me/jokerTeamBox></b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
